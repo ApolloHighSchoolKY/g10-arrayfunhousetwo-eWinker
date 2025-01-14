@@ -10,7 +10,6 @@ import java.lang.Math;
 public class ArrayFunHouseTwo
 {
 	//goingUp() will return true if all numbers
-	
 	//in numArray are in increasing order
 	//[1,2,6,9,23] returns true
 	//[9, 11, 13, 8]  returns false
